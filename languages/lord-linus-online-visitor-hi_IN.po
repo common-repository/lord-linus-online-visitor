@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lord-linus-online-visitor\n"
+"POT-Creation-Date: 2014-04-07 17:49+0530\n"
+"PO-Revision-Date: 2014-04-07 17:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: Rohitashv Singhal <ucerturohit@gmail.com>\n"
+"Language: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lord-linus-online-visitor.php:15
+msgid "Shows the number of online users to your site"
+msgstr "यह आपकी साइट पर ऑनलाइन उपभोकताओ की संख्या को दिखाता है"
+
+#: lord-linus-online-visitor.php:72
+msgid "Users are Online"
+msgstr "उपभोक्ता ऑनलाइन है"
+
+#: lord-linus-online-visitor.php:78
+msgid "Your IP Address is : "
+msgstr "आपका आइ पी एड्रैस है"
+
+#: lord-linus-online-visitor.php:86
+msgid "Total Visitors till now : "
+msgstr ""
+
+#: lord-linus-online-visitor.php:95
+msgid "Online Visitor"
+msgstr "ऑनलाइन विसिटर"
+
+#: lord-linus-online-visitor.php:96
+msgid "Uninstall"
+msgstr "हटाए"
+
+#: menu-pages/setting.php:38
+msgid "Setting Updated Successfully"
+msgstr "सेटिंग्स सफलता पूर्वक अपडेट हो चुकी है"
+
+#: menu-pages/setting.php:44
+msgid "Settings for Online Visitors"
+msgstr "ऑनलाइन विसीटर के लिए सेटिंग्स"
+
+#: menu-pages/setting.php:49
+msgid "Show IP Address of the User ?"
+msgstr "क्या आप यूसर का आइ पी एड्रैस दिखाना चाहते है ?"
+
+#: menu-pages/setting.php:51
+msgid ""
+"(Check this if you want to show the IP address of the user. This Will show "
+"the user's IP Address in the widget)"
+msgstr "(इसे चेक मार्क करे यदि आप यूसर का आईपी एड्रैस दिखाना चाहते है)"
+
+#: menu-pages/setting.php:57
+msgid "Show Total Visitor on user dashboard ?"
+msgstr ""
+
+#: menu-pages/setting.php:59
+msgid ""
+"(Check this if you want to show the total number of visitors on users "
+"dashboard.)"
+msgstr ""
+
+#: menu-pages/setting.php:64
+msgid "Save Settings"
+msgstr "सेट्टीन्स सेव करे"
+
+#: menu-pages/uninstall.php:13
+msgid "Plugin has been successfully removed."
+msgstr "प्लूगिन सफलतापूर्वक हटा दिया गया है"
+
+#: menu-pages/uninstall.php:13
+msgid " It can be re-activated from the"
+msgstr "यह दोबारा एक्टिवेट किया जा सकता है"
+
+#: menu-pages/uninstall.php:26 menu-pages/uninstall.php:33
+msgid "Remove Plugin"
+msgstr "प्लूगिन हटाए"
+
+#: menu-pages/uninstall.php:31
+msgid "Remove Lord Linus Online Visitor Plugin"
+msgstr "लॉर्ड ल्यनस प्लूगिन हटाए"
+
+#: menu-pages/uninstall.php:32
+msgid "This operation wiil delete all data & settings."
+msgstr "यह ऑपरेशन सारा डाटा एवं सेटिंग्स डिलीट करेगा"
+
+#: menu-pages/uninstall.php:32
+msgid ""
+"If you continue, You will not be able to retrieve or restore your entries."
+msgstr "यदि आप कंटिन्यू करते हो तो आप दोबारा एंट्रीस वापस नही ला सकते"
